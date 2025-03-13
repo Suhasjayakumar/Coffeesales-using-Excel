@@ -1,4 +1,4 @@
-# Coffee Sales Data Analysis - README
+# Coffee Sales- README
 
 ## Overview
 
